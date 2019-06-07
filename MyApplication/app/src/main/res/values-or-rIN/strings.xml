@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">more application</string>
+    <string name="enter_your_name">tuma nama lekha</string>
+    <string name="topping">kana miseiba?</string>
+    <string name="whipped_cream_1">Whipped Cream + $1</string>
+    <string name="chocolate_2">chocolate + $2</string>
+    <string name="quantity">keteti</string>
+    <string name="_1">1</string>
+    <string name="plus">+</string>
+    <string name="price">paisa</string>
+    <string name="_5_per_one">$5 per One</string>
+    <string name="minus">-</string>
+    <string name="order">ok kara</string>
+    <string name="thank_you">dhanya bad</string>
+    <string name="your_name">Name: <xliff:g id="your_name" example="amy" >%S</xliff:g></string>
+</resources>
